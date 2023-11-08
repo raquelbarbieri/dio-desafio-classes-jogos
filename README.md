@@ -42,7 +42,7 @@ ex:
 ## Versão 1
 
 - Código em Python
-- Arquivo [index-v1.py]()
+- Arquivo [index-v1.py](https://github.com/raquelbarbieri/dio-desafio-classes-jogos/blob/main/index-v1.py)
 - Usei a IDE Colab Google
 
 #
@@ -50,7 +50,7 @@ ex:
 ## Versão 2
 
 - Código em JavaScript
-- Arquivo [index-v2.js]()
+- Arquivo [index-v2.js](https://github.com/raquelbarbieri/dio-desafio-classes-jogos/blob/main/index-v2.js)
+- Usei o chatGPT para alterar o código de Python para JavaScript
 - Usei a IDE Play Code
-
 
