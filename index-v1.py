@@ -10,11 +10,11 @@ ataque = ""
 
 if tipo == "GUERREIRO":
   ataque = "espada"
-elif "MAGO":
+elif tipo == "MAGO":
   ataque = "magia"
-elif "MONGE":
+elif tipo == "MONGE":
   ataque = "artes marciais"
-elif "NINJA":
+else:
   ataque = "shuriken"
 
 class TipoGuerreiro:
@@ -43,4 +43,4 @@ while True:
     except ValueError:
         print("Entrada inválida. Por favor, digite um número válido.")
 
-print(f"Força igual a {xp * 10}.")
+print(f"Força igual a {xp * 100}.")
