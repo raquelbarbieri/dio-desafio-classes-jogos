@@ -49,7 +49,7 @@ ex:
 
 ## Versão 2
 
-- Código em JavaScript
+- Mesmo código, mas em JavaScript
 - Arquivo [index-v2.js](https://github.com/raquelbarbieri/dio-desafio-classes-jogos/blob/main/index-v2.js)
 - Usei o chatGPT para alterar o código de Python para JavaScript
 - Usei a IDE Play Code
