@@ -43,7 +43,7 @@ ex:
 
 - Código em Python
 - Arquivo [index-v1.py](https://github.com/raquelbarbieri/dio-desafio-classes-jogos/blob/main/index-v1.py)
-- Usei a IDE Colab Google
+- Usei a IDE Google Colab
 
 #
 
